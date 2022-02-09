@@ -1,0 +1,7 @@
+#Mac files
+._*
+.DS_Store
+._DS_Strore
+
+#Project files
+/build/

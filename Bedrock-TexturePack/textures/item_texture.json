@@ -1,0 +1,11 @@
+{
+  "resource_pack_name": "Bedrock-TexturePack",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "magic_stick": {
+      "textures": [
+        "textures/items/magic_stick"
+      ]
+    }
+  }
+}
