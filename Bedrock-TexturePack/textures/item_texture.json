@@ -6,6 +6,11 @@
       "textures": [
         "textures/items/magic_stick"
       ]
+    },
+    "magic_helmet": {
+      "textures": [
+        "textures/items/magic_helmet"
+      ]
     }
   }
 }

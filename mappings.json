@@ -1,0 +1,19 @@
+{
+    "format_version": 1,
+    "items": {
+        "minecraft:stick": [
+            {
+                "name": "magic_stick",
+                "display_name": "Magic Stick",
+                "custom_model_data": 502698
+            }
+        ],
+        "minecraft:leather_helmet": [
+            {
+                "name": "magic_helmet",
+                "display_name": "Magic Helmet",
+                "custom_model_data": 876513
+            }
+        ]
+    }
+}
